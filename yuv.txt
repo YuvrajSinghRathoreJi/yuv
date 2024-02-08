@@ -1,0 +1,22 @@
+kryuvrajsingh1654@cloudshell:~$ history
+    1  sudo adduser alia
+    2  sudo usermod -aG sales alia
+    3  sudo groupadd sales
+    4  ls
+    5  sudo usermod -aG sales alia
+    6  getent group sales
+    7  sudo addgroup marketing
+    8  sudo usermod -aG marketing alia
+    9  cat /etc/group
+   10  sudo adduser abhi
+   11  cat /etc/group
+   12  touch yuu.txt
+   13  ls -l
+   14  chomod o+wr yuu.txt
+   15  chmod o+wr yuu.txt
+   16  ls -l
+   17  chown yuu.txt
+   18  chown abhi  yuu.txt
+   19  ls -l
+   20  sudo chown abhi  yuu.txt
+   21  ls -l
